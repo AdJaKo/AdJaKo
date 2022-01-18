@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdJaKo
+- 👀 I’m interested in politics.
+- 🌱 I’m currently learning to use Python in VS Code for research.
+- 📫 How to reach me... does GitHub have a messaging function? Most likely through that?
